@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-vysybyl + tellima AT gmail DOT com (yes, it looks like *something+something@gmail.com*)
+vysybyl + milan_finale AT gmail DOT com (yes, it looks like *something+something@gmail.com*)
 
 <!-- Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
 
