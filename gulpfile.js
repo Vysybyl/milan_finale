@@ -170,7 +170,7 @@ gulp.task('img', function() {
       // For all the images in the folder
       '*': [{
         width: 230,
-        rename: {suffix: '_placehold'},
+        rename: {suffix: '_placehold', ext: '.jpg'},
       }, {
         // thubmnail
         width: 535,
