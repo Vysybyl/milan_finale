@@ -1,9 +1,9 @@
 # SITE CONFIGURATION
-title: Tellima # your site title
-author: Vysybyl # You :P
+title: Milan Finale # your site title
+author: Kanthavel Pasupathipillai # You :P
 description: > # Meta description of Homepage
-  My writings.
-baseurl: "/tellima" # the subpath of your site, e.g. /blog
+  Cronache.
+baseurl: "/milan_finale" # the subpath of your site, e.g. /blog
 url: "https://vysybyl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -21,11 +21,11 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Writings. Something like a blog.
+  Conclusioni.
 
 hero_img: posts/mountains_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: vysybyl+tellima@gmail.com # email for form submission
+email: vysybyl+milan_finale@gmail.com # email for form submission
 
 # twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username:  vysybyl # replace with your_github_username or comment to remove link from footer
