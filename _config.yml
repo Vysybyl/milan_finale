@@ -2,7 +2,7 @@
 title: Milan Finale # your site title
 author: Kanthavel Pasupathipillai # You :P
 description: > # Meta description of Homepage
-  Cronache.
+  Cronaca breve.
 baseurl: "/milan_finale" # the subpath of your site, e.g. /blog
 url: "https://vysybyl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,11 +17,11 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Info', link: '/about'}
+  - {name: 'Contatti', link: '/contact'}
 
 tagline: >
-  Conclusioni.
+  Conclusioni
 
 hero_img: posts/mountains_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
