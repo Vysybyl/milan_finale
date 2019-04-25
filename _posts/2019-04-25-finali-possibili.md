@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finali possibili
-featured-img: sleek
+featured-img: stanza
 ---
 
 L'idea è venuta prima sul cesso, tra contrazioni sfinteriche. E se scrivessi dodici finali? "*Dodici Finali Possibili* by..." suona bene. Benino.
