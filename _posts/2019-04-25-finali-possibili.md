@@ -8,7 +8,7 @@ L'idea è venuta prima sul cesso, tra contrazioni sfinteriche. E se scrivessi do
 Finali possibili per me e per l'immobile città di Milano/Mediolanum/*Milán*. Semimobile. 
 Una buona idea.
 
-Anche perchè la città ha cominciato a intragnarsi nelle mie peristalsi, in movimenti alieni, ma con sicuro calore umano. Siedo sulla sedia scomoda perchè la comoda l'ho spaccata qualche giorno fa dondolandomici. Bisogna che la porti ad aggiustare. Forse da M... Ah, no, M. ora esce con J., non s'addafare. Mica mi serve M. per trovare un falegname qui in quartiere, a me. Anzi, mica mi serve un falegname, appena quattro tasselli che non si spacchino come questi scrauzi dell'ikea.
+Anche perchè la città ha cominciato a intragnarsi nelle mie peristalsi, in movimenti alieni, ma con sicuro calore umano. Siedo sulla sedia scomoda perchè la comoda l'ho spaccata qualche giorno fa dondolandomici. Bisogna che la porti ad aggiustare. Forse dalla M... Ah, no, la M. ora esce con J., non s'addafare. Mica mi serve la M. per trovare un falegname qui in quartiere, a me. Anzi, mica mi serve un falegname, appena quattro tasselli che non si spacchino come questi scrauzi dell'ikea.
 
 La città, dicevamo. Le insegne vecchie e consunte come blasoni di famiglie antiche. *Riparazione Scarpe*, *Bar Corallo*, *Ristorante La voce del mare*. Ogni graffio sulla scritta una battaglia, ogni lampadina bruciata o vetro crepato un figlio. I morti si contano sui buchi delle serrande. 
 Io tutto questo me lo mangio, lo sorbisco come fosse Van Gogh o uno stacco di coscia malcelato/noncelato.
