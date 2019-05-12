@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Allen Ginsberg
-featured-img: india
+featured-img: campi
 ---
 
 Ho risentito Ginsberg stamattina. Un'apparizione. Youtube nasconde perle come questa... che poi mica le nasconde, sei tu che fai le domande sbagliate, come davanti a un oracolo.
