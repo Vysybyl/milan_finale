@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Milano non dimentica
-featured-img: india
+featured-img: via_torino
 ---
 
 Ho depositato i mille euro. In fondo alla strada, nel parco prima della banca, c'era un pannello con la targa del comune e tre manifesti fascisti, croce celtica e tutto. "I camerati non dimenticano". Manifestazione il 29. Altri tre manifesti sul retro del pannello. Google mi ha spiegato che quarant'anni fa hanno ucciso un ragazzo di una scuola superiore. Pare che domani i fascisti ne approfittino per farci un teatrino.
